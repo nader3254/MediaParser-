@@ -87,4 +87,4 @@ HEADERS += \
     src/mov/SingleItemTypeReferenceBox.h
 
 FORMS += \
-    src/MainWindow.ui
+    MainWindow.ui

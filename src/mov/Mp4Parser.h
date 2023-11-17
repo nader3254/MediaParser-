@@ -5,6 +5,12 @@
 #include <stdlib.h>
 #include "../FileReader.h"
 #include "Mp4Define.h"
+#include <iostream>
+#include <cstdint>
+#include <vector>
+#include <cstring>  // Add this line to include the <cstring> header
+
+using namespace std;
 
 class BaseBox;
 class mp4Parser
